@@ -1,0 +1,23 @@
+.order-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.order-container.gray-bg {
+  background-color: grey;
+  color: white;
+}
+
+.order-container .item {
+  flex-grow: 1;
+  flex-basis: 2rem;
+}
+
+.order-container .md {
+  flex-grow: 2;
+}
+
+.order-container .big {
+  flex-grow: 4;
+}
