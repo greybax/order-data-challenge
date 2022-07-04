@@ -26,6 +26,7 @@ The data sent by the server will consist of a list of order objects. Order objec
 * Updates entities with same ID on the latest ones
 * Converts prices from pennys to dollars in `Price` column
 * Ability to search by `Price` column in USD
+* Has found/total items count
 
 <img width="1345" alt="image" src="https://user-images.githubusercontent.com/3235047/177207440-1d191fa0-343f-42c3-9c24-fa3606c5a650.png">
 
