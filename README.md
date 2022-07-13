@@ -34,5 +34,6 @@ The data sent by the server will consist of a list of order objects. Order objec
 
 `npm install && npm start`
 
+*__Check out my blog post__*: https://alfilatov.com/posts/frontend-dto-challenge/
 
 **P.S.** _feel free to reuse it as you want_
